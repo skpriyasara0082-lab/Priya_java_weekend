@@ -1,0 +1,56 @@
+for loop
+Print numbers 1 to 50
+Print squares of numbers from 1 to 20
+Print multiplication tables from 1 to 10
+Find sum of even numbers between 1 and 100
+Count how many numbers are divisible by 3 (1–100)
+Print ASCII values from A to Z
+Print factorial of numbers from 1 to 10
+Print reverse of a string
+Print elements of an array
+Print index and value of array
+Print pattern:
+*
+**
+***
+****
+Print pattern:
+1
+12
+123
+1234
+Find sum of digits of a number
+Print prime numbers from 1 to 200
+Count vowels in a string
+while loop
+Print numbers until user enters 0
+Reverse a number
+Check palindrome number
+Generate Fibonacci series up to N
+Keep adding numbers until sum exceeds 100
+Count digits in a number
+Find largest digit in a number
+Keep asking password until correct
+Print table until user says stop
+Check prime number
+Find GCD of two numbers
+Keep dividing number by 2 until it becomes 1
+Count how many times digit 5 appears in number
+Keep accepting marks until negative entered
+ATM simulation (withdraw until balance is zero)
+Do- while loop
+Print menu until user chooses exit
+Simple calculator (repeat until exit)
+Number guessing game
+Accept input until valid number entered
+Login system (3 attempts)
+Keep printing random number until it becomes 7
+Accept student names until user stops
+Print even numbers up to N (at least once)
+Keep rolling dice until 6 appears
+Bank deposit simulation
+Accept numbers and find average
+Repeat quiz until correct answer
+Traffic light simulation
+Generate OTP until user confirms
+Game score tracker
