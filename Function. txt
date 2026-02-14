@@ -1,0 +1,41 @@
+Create a function to print "Hello World".
+Create a function that takes a number and prints its square.
+Create a function to return cube of a number.
+Create a function to check whether a number is positive.
+Create a function to return sum of two numbers.
+Create a function to return area of a circle.
+Create a function to print multiplication table of a number.
+Create a function to check whether a number is divisible by 6.
+Create a function that returns the length of a string.
+Create a function to convert Celsius to Fahrenheit.
+Create a function to return the largest of two numbers.
+Create a function to print numbers from 1 to N.
+Create a function to count digits of a number.
+Create a function to reverse a string.
+Create a function to check whether a number is zero.
+Create a function to check if number is prime.
+Create a function to return factorial of a number.
+Create a function to return Fibonacci series up to N terms.
+Create a function to check whether string is palindrome.
+Create a function to find GCD of two numbers.
+Create a function to find LCM of two numbers.
+Create a function to find second largest in array.
+Create a function to count vowels in a string.
+Create a function to check leap year.
+Create a function to calculate simple interest.
+Create a function to return average of array elements.
+Create a function to merge two arrays.
+Create a function to remove duplicates from array.
+Create a function to find sum of digits of a number.
+Create a function to swap two numbers (using return).
+Bank Balance Check
+Create a method that accepts account balance and withdrawal amount.
+Return whether withdrawal is successful or not.
+Student Result System
+Create a method that takes 5 subject marks and returns total and average.
+Shopping Discount
+Create a method that takes purchase amount and returns discount amount (10% if above 2000).
+GST Calculator
+Create a method that adds GST (18%) to product price.
+Library Fine System
+Create a method that calculates fine based on late days.
