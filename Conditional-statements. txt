@@ -1,0 +1,98 @@
+if task
+Check if number is greater than 100
+Check if number is less than 0
+Check if a character is ‘A’
+Check if a number is divisible by 7
+Check if marks are exactly 100
+Check if a string length is more than 5
+Check if a number ends with digit 5
+Check if salary is equal to 25,000
+Check if user entered correct PIN (only check, no else)
+Check if a number is a three-digit number
+Check if number is divisible by both 2 and 3
+Check if character is ‘@’
+Check if temperature equals 0°C
+Check if year is 2024
+Check if account balance is zero
+if-else task
+
+Check if number is greater than 50 or not
+Check if number is divisible by 9 or not
+Compare two strings (equal or not)
+Check if age is above 60 (senior) or not
+Check if number is two-digit or not
+Check if character is alphabet or not
+Check if number is perfect square or not
+Check if total purchase > 1000 for free delivery
+Check if student attendance ≥ 75% or not
+Check if username matches stored username
+Check if number is multiple of 4
+Check if number is power of 2
+Check if input character is space or not
+Check if number is less than 10
+Check if number is divisible by 11
+Check if loan amount is approved (credit score ≥ 700)
+Check if electricity units > 500
+Check if marks are between 40 and 60
+Check if password equals "admin123"
+Check if number is cube number or not
+if-else if- else task
+Determine season based on month number
+Check type of quadrilateral (square, rectangle, other)
+Find smallest of three numbers
+Assign performance rating (Excellent, Good, Average, Poor)
+Find largest among four numbers
+Classify temperature (Freezing, Cold, Warm, Hot)
+ATM balance check / withdraw / deposit options
+Check number range (0–10, 11–50, 51–100, >100)
+Identify input as positive, negative, or zero
+Check eligibility for scholarship based on marks & income
+Determine blood pressure level
+Check number of days based on leap or non-leap year
+Classify BMI into 5 categories
+Check cricket score level (Duck, Half-century, Century)
+Categorize internet speed (Slow, Medium, Fast)
+Determine transport type (Bike, Car, Bus, Truck) by wheels
+Assign bonus % based on years of experience
+Categorize exam result (Fail, Pass, Merit, Distinction, Topper)
+Check triangle validity
+Classify character (uppercase, lowercase, digit, special)
+nested if task
+Check if a number is positive → then check if it is even or odd.
+Check if student passed all subjects → then check if eligible for distinction (average ≥ 75).
+Check if age ≥ 18 → then check if user has driving license.
+Check if login username is correct → then check if password is correct.
+Check if number is divisible by 5 → then check if also divisible by 10.
+Check if year is divisible by 4 → then check leap year conditions (divisible by 100 and 400).
+Check if salary > 30,000 → then check if experience > 5 years for bonus.
+Check if number is three-digit → then check if it is palindrome.
+Check if character is alphabet → then check if it is uppercase or lowercase.
+Check if triangle sides are valid → then check if it is equilateral / isosceles.
+Check if account balance > 0 → then check if withdrawal amount ≤ balance.
+Check if temperature > 0 → then check if less than 20 (Cold category).
+Check if marks ≥ 35 → then check if marks ≥ 90 (Topper).
+Check if number > 1 → then check if prime.
+Check if password length ≥ 8 → then check if it contains a digit.
+Check if input is digit → then check if it is even digit.
+Check if employee department is "IT" → then check if performance rating ≥ 4.
+Check if purchase amount > 1000 → then check if customer is premium member.
+Check if number is divisible by 2 → then check if divisible by 4.
+Check if student attendance ≥ 75% → then check if marks ≥ 50 for exam eligibility.
+switch task
+Display bank services (1-Balance, 2-Deposit, 3-Withdraw)
+Select programming language info (Java, Python, C++)
+Movie ticket booking category (Gold, Silver, Platinum)
+Select mobile brand details
+Restaurant order menu
+Choose subject and display teacher name
+Select city and display state
+Choose day and display whether weekday/weekend
+Select exam and show full form (SSC, HSC, UPSC)
+Currency symbol display (INR, USD, EUR)
+Choose operation (Square, Cube, Square root)
+Vehicle service type selection
+Choose package plan (Basic, Standard, Premium)
+Select game difficulty level
+Display festival based on month
+
+
