@@ -1,0 +1,64 @@
+Class & Object
+A school system needs to maintain student information such as id, name, and marks. Design a class to store these details and display them using objects.
+A rectangle calculator must compute the area using length and breadth. Represent the rectangle as a class and calculate the area.
+A circle utility should determine the area and circumference using a given radius. Model this using a class and suitable methods.
+An HR system manages employees with attributes id, name, and salary. Create objects representing different employees and print their details.
+A car showroom stores information like brand, model, and price. Represent each car as an object and display the inventory.
+A mobile shop maintains mobile specifications such as brand, price, and storage. Design a class to represent a mobile device.
+A banking system maintains an account with accountNumber, name, and balance, allowing deposit and withdrawal operations.
+A library catalog stores details of books such as bookId, bookName, and author. Create objects to represent books in the catalog.
+A laptop inventory system tracks brand, ram, and price. Use a class to display laptop specifications.
+A movie database maintains movie details such as title, director, and rating.A product billing system stores product details including productId, productName, and price.
+A hotel booking system keeps track of rooms with attributes such as roomNumber, type, and price.
+
+Inheritance 
+In a zoo management system, animals share a behavior such as eating while dogs also bark. Represent this using inheritance.
+A vehicle system defines common features for vehicles while cars have additional behavior such as driving.
+A college database represents a person with name and age, while a student has additional details such as rollNo and marks.
+A company system manages employees, while managers receive an additional bonus.
+A drawing application defines shapes while circles and rectangles implement their own area calculations.
+A banking system defines general account behavior while savings and current accounts have specialized features.
+A transport system manages different vehicle types such as bike, car, and truck.
+A school system represents a general person and extends it into teacher and student roles.
+A product catalog includes categories such as electronics and clothing derived from a product class.
+A hospital system represents staff and extends it into doctor and nurse roles.
+
+Polymorphism
+
+A calculator application should support adding two numbers or three numbers using the same method name.
+A geometry program should compute the area for multiple shapes using methods with the same name.
+In a zoo simulation, animals produce different sounds using the same method.
+A vehicle simulation should allow different vehicles to start differently using the same method.
+A payment gateway should process payments through different methods such as UPI and credit card.
+A bank system should allow different account types to implement withdrawal rules differently.
+A graphics program should allow different shapes to implement a draw method.
+A company system should allow employees to calculate salary differently.
+A notification system should send messages using different channels such as email and SMS.
+A shopping application should calculate discounts differently for different product types.
+
+Encapsulation 
+
+A student system must protect student details such as marks using private variables.
+In a bank application, the balance must not be accessed directly.
+An employee payroll system should protect salary information.
+A mobile inventory system should prevent direct modification of mobile price.
+A car showroom should ensure price details are accessed only through methods.
+A hospital system should protect patient information.
+A product inventory system should store product price privately.
+A library system should protect the number of books available.
+A laptop store should restrict modification of product specifications.
+A person information system should protect personal details.
+
+ABSTRACTION
+
+A zoo application should define an animal concept but allow each animal to implement its own sound behavior.
+A graphics system should define a shape but let each shape calculate its own area.
+A vehicle control system should define common vehicle operations but allow different implementations.
+A company payroll system should define salary calculation abstractly.
+A payment system should allow different implementations such as credit card or UPI.
+A smart home system should define a device interface for appliances.
+A bank system should define general account operations but let specific accounts implement them.
+A drawing application should define a draw method for shapes.
+A transport system should define basic vehicle behavior abstractly.
+A device system should define common device operations.
+
