@@ -1,0 +1,51 @@
+Constructor (10 Tasks)
+
+When a student object is created, its id, name, and marks should be initialized automatically using a constructor.
+rectangle object should initialize length and breadth through a constructor and compute its area.
+bank account must initialize accountNumber, name, and balance when the object is created.
+car showroom application should create car objects with brand, model, and price initialized using a constructor.
+mobile store system should initialize mobile details using a parameterized constructor.
+library system should initialize book details such as bookId, bookName, and author using constructors.
+circle calculator tool should initialize the radius using a constructor before computing the area.
+laptop store inventory should initialize laptop details using constructors.
+movie database should initialize movie details through constructors.
+
+Access Specifiers
+
+ bank account system must protect the balance using private access.
+ student system should allow marks to be accessed only through methods.
+ hospital system should protect patient records.
+ company payroll system should restrict salary visibility.
+ library system should restrict modification of book inventory.
+ product system should allow limited access to product details.
+ mobile store system should restrict modification of price details.
+
+this Keyword 
+ car showroom system should assign constructor values to object variables using this.
+ bank account class should update balance values using parameters with the same name.
+ rectangle class should assign length and breadth values using this.
+ book class should assign book details using this.
+ mobile class should initialize brand and price using this.
+ circle class should assign radius using this.
+
+super Keyword 
+
+vehicle management system should allow a child class to call the parent constructor.
+ person-student system should allow the student class to access parent variables.
+ company system should allow the manager class to call the employee constructor.
+ banking system should allow savings accounts to call account methods.
+ shape system should allow child classes to call parent constructors.
+ transport system should allow bike classes to access parent methods.
+ college system should allow student classes to call parent display methods.
+
+final Keyword
+
+ banking system should define a constant interest rate.
+company policy system should protect rules using a final method.
+student grading system should define maximum marks as constant.
+mathematics utility class should define fixed limits.
+library system should prevent modification of library ID.
+security system should prevent modification of authentication logic.
+payment system should define transaction charges as constant.
+
+A zoo system should allow dog classes to call parent animal methods
